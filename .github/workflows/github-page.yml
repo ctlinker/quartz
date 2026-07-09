@@ -23,6 +23,7 @@ jobs:
           node-version: 22
           cache: npm
 
+      - run: npm run install
       - run: npm ci
       - run: npm run prebuild
       - run: npx quartz build
