@@ -24,8 +24,10 @@ jobs:
           cache: npm
 
       - run: npm ci
+      - run: npm run prebuild
+      - run: npm run install-plugins
       - run: npx quartz build
-
+  
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
