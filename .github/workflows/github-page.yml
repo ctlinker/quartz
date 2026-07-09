@@ -25,6 +25,7 @@ jobs:
 
       - run: npm install
       - run: npm ci
+      - run: npm run prebuild
       - run: npx quartz build
   
       - uses: actions/upload-pages-artifact@v3
