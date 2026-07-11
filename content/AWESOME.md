@@ -6,6 +6,11 @@ tags:
 ---
 # Awesome Ressources
 
+## Concepts
+
+- **Ressource** : [Startup School](https://www.youtube.com/watch?v=e5-6rEwzxLs&list=PLQ-uHSnFig5M9fW16o2l35jrfdsxGknNB)
+		Playlist for begunner startup founder 
+
 ## Zig
 
 - **Ressource** : [Don't Forget To Flush by Andrew Kelley](https://www.youtube.com/watch?v=f30PceqQWko&t=1025s)
