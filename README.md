@@ -1,11 +1,17 @@
 # Statement
 
-This my quartz documentation for things I need/have written on or just end up googling to much. 
-You're free to look up here but beware everything may not be accurate as my perpective may be biased.
+This is my personal collection of notes, references, experiments, and things I’ve written down — whether because I needed them, found them interesting, or ended up searching for the same thing one too many times.
 
-## The Tool (Quartz V5)
+Think of this as a living archive rather than a finished documentation set. Things here may be incomplete, outdated, or influenced by my own perspective and biases. Take what is useful, but always verify important information yourself.
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+## The Tool — Quartz V5
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Read there documentation and get started here https://quartz.jzhao.xyz/ or [Join the Discord Community](https://discord.gg/cRFFHYye7t).
+> “One who works with the door open gets all kinds of interruptions, but they also occasionally get clues as to what the world is and what might be important.” — Richard Hamming
+
+Quartz is a set of tools for publishing a digital garden: a collection of interconnected notes, ideas, and personal knowledge that grows over time.
+It allows you to turn your Markdown notes into a website and share your knowledge freely with others.
+
+If you are interested in learning more, check out the official documentation and getting started guide:
+
+- Documentation: https://quartz.jzhao.xyz/
+- Community: https://discord.gg/cRFFHYye7t
