@@ -2,7 +2,6 @@
 title: Key Management Service (KMS)
 tags:
   - windows
-  - os
 publish: true
 ---
 # Introduction à KMS (Key Management Service) : Guide pour Débutant

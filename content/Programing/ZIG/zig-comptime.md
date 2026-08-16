@@ -11,7 +11,7 @@ aliases:
 
 ### Introduction
 
-Zig doesn't have dedicated [[polymorphism|generic]] syntax. Instead, it achieves generic programming through **compile-time type generation**.
+Zig doesn't have dedicated [[polymorphism#2. Parametric Polymorphism (Generics)|generic]] syntax. Instead, it achieves [[polymorphism#Introduction|polymorphism]] through **compile-time type generation**.
 
 Because code can execute during compilation, functions can build and return entirely new types. This form of [[meta-programming#Introduction|meta-programming]] makes Zig extremely flexible while keeping the language simple.
 

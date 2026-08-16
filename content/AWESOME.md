@@ -6,10 +6,18 @@ tags:
 ---
 # Awesome Ressources
 
-## Concepts
+## Software
+
+- **Ressource**: [tldraw - offline](https://offline.tldraw.com/)
+	A **local whiteboard** for you and your agents. (win, linux, macos)
+
+- **Ressource**: [Lunacy](https://icons8.com/lunacy)
+	Figma if it was offline & better (win, linux, macos)
+
+## Tech
 
 - **Ressource** : [Startup School](https://www.youtube.com/watch?v=e5-6rEwzxLs&list=PLQ-uHSnFig5M9fW16o2l35jrfdsxGknNB)
-		Playlist for begunner startup founder 
+	Playlist for beginner startup founder,by Y-Combinator
 
 ## Zig
 

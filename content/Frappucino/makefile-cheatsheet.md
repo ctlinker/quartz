@@ -1,5 +1,5 @@
 ---
-title: Makfile Cheatsheet
+title: Makefile Cheatsheet
 tags:
   - cheatsheet
   - programming

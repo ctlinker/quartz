@@ -11,4 +11,4 @@ tags:
 
 Dart Is an object oriented programming language developed by Google. It's usually used for:
 
-- The [[Flutter|Fluter]] Framework
+- The [[flutter|Fluter]] Framework

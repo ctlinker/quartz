@@ -1,7 +1,7 @@
 ---
-title: Zig's Allocator
 tags:
   - zig
-  - memory
   - programming
+  - cheatsheet
+title: Zig Cheatsheet
 ---

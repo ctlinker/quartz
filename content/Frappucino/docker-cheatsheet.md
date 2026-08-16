@@ -345,11 +345,8 @@ Docker isolates applications like:
 But:
 
 - shares kernel
-    
 - stays lightweight
-    
 - runs anywhere
-    
 
 ---
 
