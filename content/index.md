@@ -7,7 +7,7 @@ This vault is an archive of my many interests — a place where I document what 
 | :---------: | :--------------------------------------------------------------------------------: |
 | Frappuccino |                     Things I end up Googling in everyday life.                     |
 | Electronic  |                      Notes on electronics and how they work.                       |
-|    Arch     |                  Records of my Arch Linux setup and experiments.                   |
+| Os Install  |                  Records of my Arch Linux setup and experiments.                   |
 |    Blog     | A collection of thoughts, discoveries, and the occasional "What on earth is this?" |
 |  Thinking   |                    Concepts, ideas, and philosophical musings.                     |
 | Mathematica |                  Notes and explorations of mathematical concepts.                  |
